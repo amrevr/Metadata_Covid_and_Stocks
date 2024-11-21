@@ -1,1 +1,0 @@
-# Run view.py! Makes life easier if your lazy :D

@@ -3,7 +3,7 @@ import os as os
 
 # Set the directory containing the CSV files
 input_directory = 'COVID Data/'
-output_directory = 'HDF5/' + input_directory
+output_directory = 'HDF5 Data/' + input_directory
 
 # Create output directory if it doesn't exist
 os.makedirs(output_directory, exist_ok=True)
